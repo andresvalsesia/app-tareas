@@ -1,0 +1,7 @@
+{
+    "tareas" : [
+        {"id" : 1, "nombre" : "Lavar Ropa", "done" : false},
+        {"id" : 2, "nombre" : "Peparar la cena", "done" : false},
+        {"id" : 3, "nombre" : "Regar las plantas", "done" : false}
+    ]
+}
